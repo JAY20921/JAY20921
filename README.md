@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm JAY</h1>
 <p align="center">
-  <strong>Developer | Robotics Enthusiast | Computer Vision & AI Explorer</strong>
+  <strong>MERN Developer | Robotics Enthusiast | Computer Vision & AI Explorer</strong>
 </p>
 
 <p align="center">
