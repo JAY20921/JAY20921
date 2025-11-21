@@ -83,58 +83,82 @@
 
 # 🧰 Skills (Visual Skill Bars)
 
-<!-- PYTHON -->
+### 🐍 Python
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="40"/>  
-  <strong>Python</strong>
+  <svg width="350" height="20">
+    <rect width="350" height="20" rx="5" fill="#444"/>
+    <rect width="330" height="20" rx="5" fill="#3776AB">
+      <animate attributeName="width" from="0" to="330" dur="1s" fill="freeze"/>
+    </rect>
+  </svg>
 </p>
-<p align="center"><img src="https://progress-bar.dev/95/?title=Skill&width=350" /></p>
 
-<!-- JAVASCRIPT -->
+### 🟨 JavaScript
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript" width="40"/>  
-  <strong>JavaScript</strong>
+  <svg width="350" height="20">
+    <rect width="350" height="20" rx="5" fill="#444"/>
+    <rect width="300" height="20" rx="5" fill="#F7DF1E">
+      <animate attributeName="width" from="0" to="300" dur="1s" fill="freeze"/>
+    </rect>
+  </svg>
 </p>
-<p align="center"><img src="https://progress-bar.dev/88/?title=Skill&width=350" /></p>
 
-<!-- OPENCV -->
+### 👁️ OpenCV / Computer Vision
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv" width="40"/>  
-  <strong>OpenCV / Computer Vision</strong>
+  <svg width="350" height="20">
+    <rect width="350" height="20" rx="5" fill="#444"/>
+    <rect width="320" height="20" rx="5" fill="#5C7AEA">
+      <animate attributeName="width" from="0" to="320" dur="1s" fill="freeze"/>
+    </rect>
+  </svg>
 </p>
-<p align="center"><img src="https://progress-bar.dev/92/?title=Skill&width=350" /></p>
 
-<!-- REACT -->
+### ⚛️ React
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="40"/>  
-  <strong>React</strong>
+  <svg width="350" height="20">
+    <rect width="350" height="20" rx="5" fill="#444"/>
+    <rect width="260" height="20" rx="5" fill="#61DAFB">
+      <animate attributeName="width" from="0" to="260" dur="1s" fill="freeze"/>
+    </rect>
+  </svg>
 </p>
-<p align="center"><img src="https://progress-bar.dev/75/?title=Skill&width=350" /></p>
 
-<!-- NODE -->
+### 🟩 Node.js
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>  
-  <strong>Node.js</strong>
+  <svg width="350" height="20">
+    <rect width="350" height="20" rx="5" fill="#444"/>
+    <rect width="240" height="20" rx="5" fill="#3C873A">
+      <animate attributeName="width" from="0" to="240" dur="1s" fill="freeze"/>
+    </rect>
+  </svg>
 </p>
-<p align="center"><img src="https://progress-bar.dev/72/?title=Skill&width=350" /></p>
 
-<!-- VERILOG -->
+### 🔧 Verilog / FPGA
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=verilog" width="40"/>  
-  <strong>Verilog / FPGA</strong>
+  <svg width="350" height="20">
+    <rect width="350" height="20" rx="5" fill="#444"/>
+    <rect width="280" height="20" rx="5" fill="#9A4EDC">
+      <animate attributeName="width" from="0" to="280" dur="1s" fill="freeze"/>
+    </rect>
+  </svg>
 </p>
-<p align="center"><img src="https://progress-bar.dev/80/?title=Skill&width=350" /></p>
 
-<!-- ROBOTICS -->
+### 🤖 Robotics Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github" width="40"/>  
-  <strong>Robotics Systems</strong>
+  <svg width="350" height="20">
+    <rect width="350" height="20" rx="5" fill="#444"/>
+    <rect width="300" height="20" rx="5" fill="#6A737D">
+      <animate attributeName="width" from="0" to="300" dur="1s" fill="freeze"/>
+    </rect>
+  </svg>
 </p>
-<p align="center"><img src="https://progress-bar.dev/87/?title=Skill&width=350" /></p>
 
-<!-- ML -->
+### 🧠 Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/>  
-  <strong>Machine Learning</strong>
+  <svg width="350" height="20">
+    <rect width="350" height="20" rx="5" fill="#444"/>
+    <rect width="290" height="20" rx="5" fill="#FF6F00">
+      <animate attributeName="width" from="0" to="290" dur="1s" fill="freeze"/>
+    </rect>
+  </svg>
 </p>
-<p align="center"><img src="https://progress-bar.dev/84/?title=Skill&width=350" /></p>
