@@ -15,11 +15,25 @@
 ---
 
 # 🚀 About Me
-- 🤖 Robotics & Embedded Systems enthusiast (e-Yantra 2025 MazeSolver Bot)
-- 👁️ Passionate about **Computer Vision, YOLO, OpenCV & Automation**
-- 🧠 Learning full-stack development + FPGA + advanced CV pipelines
-- 🌱 I love building systems from **hardware → algorithms → frontend**
-- 🎯 Always improving, building, experimenting & sharing code
+
+### 💻 Development Skills
+- MERN Stack Developer (MongoDB, Express, React, Node.js)
+- Full-Stack Application Builder
+- API Developer (REST APIs, Appwrite, Firebase)
+- UI/UX Focused Frontend Development
+- Backend Architecture & System Design
+
+### 🤖 Robotics + AI Interests
+- Robotics & Embedded Systems enthusiast (e-Yantra MazeSolver Bot 2025)
+- Specialized in **Computer Vision, OpenCV, YOLO & Automation**
+- Learning advanced **FPGA + CV pipelines**
+- Passionate about building systems that integrate  
+  **hardware → AI/vision algorithms → cloud/frontend**
+
+### 🌱 Personal Vision
+- Always improving, learning, experimenting, breaking things & building better versions  
+- I believe in writing clean, scalable, production-ready code  
+- Documenting my journey through projects, repos & new concepts
 
 ---
 
