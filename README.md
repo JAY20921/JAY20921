@@ -83,3 +83,68 @@
 
 # 🧰 Skills (Visual Skill Bars)
 
+<p align="center">
+  <img src="https://skills.thijs.gg/icons?i=python&theme=light" width="40"/> 
+  <strong>Python</strong>
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/95/?title=Skill&width=350" />
+</p>
+
+<p align="center">
+  <img src="https://skills.thijs.gg/icons?i=javascript&theme=light" width="40"/> 
+  <strong>JavaScript</strong>
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/88/?title=Skill&width=350" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv" width="40"/> 
+  <strong>OpenCV / CV</strong>
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/92/?title=Skill&width=350" />
+</p>
+
+<p align="center">
+  <img src="https://skills.thijs.gg/icons?i=react&theme=light" width="40"/> 
+  <strong>React</strong>
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/75/?title=Skill&width=350" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> 
+  <strong>Node.js</strong>
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/72/?title=Skill&width=350" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=verilog" width="40"/> 
+  <strong>Verilog / FPGA</strong>
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/80/?title=Skill&width=350" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" width="40"/> 
+  <strong>Robotics Systems</strong>
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/87/?title=Skill&width=350" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> 
+  <strong>Machine Learning</strong>
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/84/?title=Skill&width=350" />
+</p>
+
+
