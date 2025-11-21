@@ -1,54 +1,44 @@
-<!-- PROFILE README FOR JAY -->
-
-<p align="center">
-  <img src="https://github.com/JAY20921.png" width="150" style="border-radius:50%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm JAY</h1>
-<p align="center">
-  <strong>Developer | Robotics Engineer | Computer Vision & AI Explorer</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/JAY20921?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/JAY20921?affiliations=OWNER&style=social" />
-</p>
 
 ---
 
-# 🚀 About Me
+# 💼 Projects
 
-- 🤖 Robotics & Embedded Systems Lover  
-- 👁️ Specialized in **Computer Vision, YOLO, OpenCV & ML Pipelines**  
-- 🧠 Learning **Full-Stack Development, FPGA, and Advanced CV**  
-- 🏆 Builder of hardware + software integrated systems  
-- ✨ Passionate about clean, scalable, production-ready code  
+### 🔥 e-Yantra — MazeSolver Bot  
+Tech: Verilog, Robotics  
+Repo: **https://github.com/JAY20921/E-Yantra**
 
 ---
 
-# ⚡ Visual Tech Stack
-
-### 🧠 Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,verilog" height="50" />
-</p>
-
-### 🏗️ Frameworks / Libraries  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,opencv,fastapi,tensorflow" height="50" />
-</p>
-
-### 🗄️ Databases  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase" height="50" />
-</p>
-
-### ⚙️ Tools & Platforms  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode" height="50" />
-</p>
+### 🔍 Computer Vision  
+Tech: Python, OpenCV, YOLO  
+Repo: **https://github.com/JAY20921/Computer-Vision**
 
 ---
 
-# 🎨 Skill Bars (Visual)
+### 📝 Blog APP  
+Tech: React, Appwrite  
+Repo: **https://github.com/JAY20921/Blog-APP**
 
+---
+
+### 🌐 Basic Web Dev Projects  
+Tech: HTML, CSS, JS  
+Repo: **https://github.com/JAY20921/Basic-WebDev**
+
+---
+
+### ⚛️ React Projects  
+Repo: **https://github.com/JAY20921/React**
+
+---
+
+### 🟢 Express Learning Repo  
+Repo: **https://github.com/JAY20921/express**
+
+---
+
+# 🧩 Add GIFs / Screenshots
+Upload images to a repo folder named `assets/` then embed:
+
+```md
+![Demo](https://raw.githubusercontent.com/JAY20921/REPO_NAME/main/assets/demo.gif)
