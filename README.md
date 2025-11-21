@@ -17,23 +17,23 @@
 # 🚀 About Me
 
 ### 💻 Development Skills
-- MERN Stack Developer (MongoDB, Express, React, Node.js)
-- Full-Stack Application Builder
-- API Developer (REST APIs, Appwrite, Firebase)
-- UI/UX Focused Frontend Development
-- Backend Architecture & System Design
+- MERN Stack Developer (MongoDB, Express, React, Node.js)  
+- Full-Stack Application Builder  
+- API Developer (REST APIs, Appwrite, Firebase)  
+- UI/UX Focused Frontend Development  
+- Backend Architecture & System Design  
 
 ### 🤖 Robotics + AI Interests
-- Robotics & Embedded Systems enthusiast (e-Yantra MazeSolver Bot 2025)
-- Specialized in **Computer Vision, OpenCV, YOLO & Automation**
-- Learning advanced **FPGA + CV pipelines**
+- Robotics & Embedded Systems enthusiast (e-Yantra MazeSolver Bot 2025)  
+- Specialized in **Computer Vision, OpenCV, YOLO & Automation**  
+- Learning advanced **FPGA + CV pipelines**  
 - Passionate about building systems that integrate  
-  **hardware → AI/vision algorithms → cloud/frontend**
+  **hardware → AI/vision algorithms → cloud/frontend**  
 
 ### 🌱 Personal Vision
-- Always improving, learning, experimenting, breaking things & building better versions  
-- I believe in writing clean, scalable, production-ready code  
-- Documenting my journey through projects, repos & new concepts
+- Always improving, learning, experimenting & documenting  
+- Writing clean, scalable, production-ready code  
+- Building projects that solve real-world problems  
 
 ---
 
@@ -84,67 +84,49 @@
 # 🧰 Skills (Visual Skill Bars)
 
 <p align="center">
-  <img src="https://skills.thijs.gg/icons?i=python&theme=light" width="40"/> 
+  <img src="https://skills.thijs.gg/icons?i=python&theme=light" width="40"/>  
   <strong>Python</strong>
 </p>
-<p align="center">
-  <img src="https://progress-bar.dev/95/?title=Skill&width=350" />
-</p>
+<p align="center"><img src="https://progress-bar.dev/95/?title=Skill&width=350" /></p>
 
 <p align="center">
-  <img src="https://skills.thijs.gg/icons?i=javascript&theme=light" width="40"/> 
+  <img src="https://skills.thijs.gg/icons?i=javascript&theme=light" width="40"/>  
   <strong>JavaScript</strong>
 </p>
-<p align="center">
-  <img src="https://progress-bar.dev/88/?title=Skill&width=350" />
-</p>
+<p align="center"><img src="https://progress-bar.dev/88/?title=Skill&width=350" /></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv" width="40"/> 
-  <strong>OpenCV / CV</strong>
+  <img src="https://skillicons.dev/icons?i=opencv" width="40"/>  
+  <strong>OpenCV / Computer Vision</strong>
 </p>
-<p align="center">
-  <img src="https://progress-bar.dev/92/?title=Skill&width=350" />
-</p>
+<p align="center"><img src="https://progress-bar.dev/92/?title=Skill&width=350" /></p>
 
 <p align="center">
-  <img src="https://skills.thijs.gg/icons?i=react&theme=light" width="40"/> 
+  <img src="https://skills.thijs.gg/icons?i=react&theme=light" width="40"/>  
   <strong>React</strong>
 </p>
-<p align="center">
-  <img src="https://progress-bar.dev/75/?title=Skill&width=350" />
-</p>
+<p align="center"><img src="https://progress-bar.dev/75/?title=Skill&width=350" /></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> 
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>  
   <strong>Node.js</strong>
 </p>
-<p align="center">
-  <img src="https://progress-bar.dev/72/?title=Skill&width=350" />
-</p>
+<p align="center"><img src="https://progress-bar.dev/72/?title=Skill&width=350" /></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=verilog" width="40"/> 
+  <img src="https://skillicons.dev/icons?i=verilog" width="40"/>  
   <strong>Verilog / FPGA</strong>
 </p>
-<p align="center">
-  <img src="https://progress-bar.dev/80/?title=Skill&width=350" />
-</p>
+<p align="center"><img src="https://progress-bar.dev/80/?title=Skill&width=350" /></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github" width="40"/> 
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>  
   <strong>Robotics Systems</strong>
 </p>
-<p align="center">
-  <img src="https://progress-bar.dev/87/?title=Skill&width=350" />
-</p>
+<p align="center"><img src="https://progress-bar.dev/87/?title=Skill&width=350" /></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> 
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/>  
   <strong>Machine Learning</strong>
 </p>
-<p align="center">
-  <img src="https://progress-bar.dev/84/?title=Skill&width=350" />
-</p>
-
-
+<p align="center"><img src="https://progress-bar.dev/84/?title=Skill&width=350" /></p>
