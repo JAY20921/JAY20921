@@ -160,14 +160,20 @@ RAG-based citizen assistant for discovering government welfare schemes using vec
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/JAY20921">
-    <img src="https://img.shields.io/badge/GitHub-JAY20921-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/JAY20921" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-JAY20921-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+
+  <a href="https://www.linkedin.com/in/jay-lade-980863320/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jay%20Lade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+
+  <a href="mailto:jaylade012@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/JAY0123456/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-440%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
