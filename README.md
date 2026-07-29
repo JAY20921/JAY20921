@@ -102,16 +102,13 @@
 ## 🌟 Featured Projects
 
 ### 🎬 Videora
-
-AI-powered video hosting platform with authentication, streaming, comments, playlists, and media management.
+Production-grade AI-powered video streaming platform with adaptive HLS streaming, LLM-powered video intelligence, semantic search, real-time collaboration, and scalable distributed architecture.
 
 ### 🎙️ N.O.V.A.
-
-AI voice assistant with multilingual support, streaming responses, and multiple LLM integrations.
+Intelligent multilingual voice assistant with multi-LLM support, real-time streaming conversations, speech processing, and extensible AI workflows.
 
 ### 🏛️ JanMitra AI
-
-RAG-based citizen assistant for discovering government welfare schemes using vector search and LLMs.
+RAG-based AI assistant leveraging vector search and LLMs to deliver personalized, multilingual government scheme recommendations.
 
 ---
 
