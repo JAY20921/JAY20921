@@ -1,164 +1,178 @@
 <p align="center">
-  <img src="https://github.com/JAY20921.png" alt="avatar" width="140" style="border-radius:50%">
+  <img src="https://github.com/JAY20921.png" alt="avatar" width="140" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm JAY</h1>
+
 <p align="center">
-  <strong>MERN Developer | Robotics Enthusiast | Computer Vision & AI Explorer</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Engineer;Backend+Builder;Building+Scalable+Products+%26+Intelligent+Systems" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/JAY20921?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/JAY20921?affiliations=OWNER&style=social" />
+  <strong>Full Stack Developer | AI Engineer | Backend Builder</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JAY20921">
+    <img src="https://img.shields.io/github/followers/JAY20921?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/LeetCode-440%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-SDE%20%7C%20Backend%20%7C%20AI-2EA043?style=for-the-badge" />
 </p>
 
 ---
 
-# 🚀 About Me
+## ✨ About Me
 
-### 💻 Development Skills
-- MERN Stack Developer (MongoDB, Express, React, Node.js)  
-- Full-Stack Application Builder  
-- API Developer (REST APIs, Appwrite, Firebase)  
-- UI/UX Focused Frontend Development  
-- Backend Architecture & System Design  
-
-### 🤖 Robotics + AI Interests
-- Robotics & Embedded Systems enthusiast (e-Yantra MazeSolver Bot 2025)  
-- Specialized in **Computer Vision, OpenCV, YOLO & Automation**  
-- Learning advanced **FPGA + CV pipelines**  
-- Passionate about building systems that integrate  
-  **hardware → AI/vision algorithms → cloud/frontend**  
-
-### 🌱 Personal Vision
-- Always improving, learning, experimenting & documenting  
-- Writing clean, scalable, production-ready code  
-- Building projects that solve real-world problems  
-
----
-
-# 💡 Tech Stack
-
-## 🧠 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,verilog" height="45" />
-</p>
-
-## 🏗️ Frameworks / Libraries  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,opencv,fastapi,tensorflow" height="45" />
-</p>
-
-## 🗄️ Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase" height="45" />
-</p>
-
-## ⚙️ Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,bash,vscode,linux" height="45" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-## ⭐ Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAY20921&show_icons=true&theme=react&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAY20921&layout=compact&theme=react&hide_border=true" height="165" />
+  I build products that combine clean UI, scalable backend systems, and AI-driven intelligence.
 </p>
 
-## 🔥 Streak  
+<div align="center">
+
+|    |                                                                                       |
+| -- | ------------------------------------------------------------------------------------- |
+| 💻 | Full Stack Developer with experience in **Next.js, React, Node.js, Express, MongoDB** |
+| 🤖 | Building **LLM apps, RAG systems, AI assistants, and automation tools**               |
+| ⚡  | Interested in **Backend Engineering, APIs, System Design, and Cloud**                 |
+| 📚 | Solved **440+ LeetCode problems**                                                     |
+| 🎯 | Targeting **SDE, Backend, Full Stack, and AI Engineer** roles                         |
+| 🌱 | Currently exploring **Distributed Systems, Redis, Vector Databases, and Agentic AI**  |
+
+</div>
+
+---
+
+## 🧠 What I Build
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Apps-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Assistants-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streaming%20Systems-111827?style=for-the-badge" />
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,sql" height="42" />
+</p>
+
+### Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" height="42" />
+</p>
+
+### Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="42" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase,supabase" height="42" />
+</p>
+
+### AI / ML
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="42" />
+</p>
+
+<p align="center">
+  <strong>LLMs:</strong> OpenAI • Gemini • Groq • Hugging Face • LangChain • RAG • Qdrant
+</p>
+
+### DevOps / Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel" height="42" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🎬 Videora
+
+AI-powered video hosting platform with authentication, streaming, comments, playlists, and media management.
+
+### 🎙️ N.O.V.A.
+
+AI voice assistant with multilingual support, streaming responses, and multiple LLM integrations.
+
+### 🏛️ JanMitra AI
+
+RAG-based citizen assistant for discovering government welfare schemes using vector search and LLMs.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAY20921&show_icons=true&theme=react&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAY20921&layout=compact&theme=react&hide_border=true" height="170" />
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JAY20921&theme=react&hide_border=true" />
 </p>
 
-## 🏆 Trophies  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAY20921&theme=react" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JAY20921&theme=radical&no-frame=true&margin-w=5" />
 </p>
 
 ---
 
-# 🧰 Skills (Visual Skill Bars)
+## 🎯 Current Focus
 
-### 🐍 Python
 <p align="center">
-  <svg width="350" height="20">
-    <rect width="350" height="20" rx="5" fill="#444"/>
-    <rect width="330" height="20" rx="5" fill="#3776AB">
-      <animate attributeName="width" from="0" to="330" dur="1s" fill="freeze"/>
-    </rect>
-  </svg>
+  <img src="https://img.shields.io/badge/Backend%20Systems-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Applications-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Production%20Deployments-0F172A?style=for-the-badge" />
 </p>
 
-### 🟨 JavaScript
+---
+
+## 🏆 Coding Profile
+
+* **LeetCode:** 440+ problems solved
+* Strong in **Data Structures and Algorithms**
+* Comfortable with **competitive programming**
+* Focused on **clean, efficient, production-ready code**
+
+---
+
+## 📫 Connect With Me
+
 <p align="center">
-  <svg width="350" height="20">
-    <rect width="350" height="20" rx="5" fill="#444"/>
-    <rect width="300" height="20" rx="5" fill="#F7DF1E">
-      <animate attributeName="width" from="0" to="300" dur="1s" fill="freeze"/>
-    </rect>
-  </svg>
+  <a href="https://github.com/JAY20921">
+    <img src="https://img.shields.io/badge/GitHub-JAY20921-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-### 👁️ OpenCV / Computer Vision
-<p align="center">
-  <svg width="350" height="20">
-    <rect width="350" height="20" rx="5" fill="#444"/>
-    <rect width="320" height="20" rx="5" fill="#5C7AEA">
-      <animate attributeName="width" from="0" to="320" dur="1s" fill="freeze"/>
-    </rect>
-  </svg>
-</p>
+---
 
-### ⚛️ React
 <p align="center">
-  <svg width="350" height="20">
-    <rect width="350" height="20" rx="5" fill="#444"/>
-    <rect width="260" height="20" rx="5" fill="#61DAFB">
-      <animate attributeName="width" from="0" to="260" dur="1s" fill="freeze"/>
-    </rect>
-  </svg>
-</p>
-
-### 🟩 Node.js
-<p align="center">
-  <svg width="350" height="20">
-    <rect width="350" height="20" rx="5" fill="#444"/>
-    <rect width="240" height="20" rx="5" fill="#3C873A">
-      <animate attributeName="width" from="0" to="240" dur="1s" fill="freeze"/>
-    </rect>
-  </svg>
-</p>
-
-### 🔧 Verilog / FPGA
-<p align="center">
-  <svg width="350" height="20">
-    <rect width="350" height="20" rx="5" fill="#444"/>
-    <rect width="280" height="20" rx="5" fill="#9A4EDC">
-      <animate attributeName="width" from="0" to="280" dur="1s" fill="freeze"/>
-    </rect>
-  </svg>
-</p>
-
-### 🤖 Robotics Systems
-<p align="center">
-  <svg width="350" height="20">
-    <rect width="350" height="20" rx="5" fill="#444"/>
-    <rect width="300" height="20" rx="5" fill="#6A737D">
-      <animate attributeName="width" from="0" to="300" dur="1s" fill="freeze"/>
-    </rect>
-  </svg>
-</p>
-
-### 🧠 Machine Learning
-<p align="center">
-  <svg width="350" height="20">
-    <rect width="350" height="20" rx="5" fill="#444"/>
-    <rect width="290" height="20" rx="5" fill="#FF6F00">
-      <animate attributeName="width" from="0" to="290" dur="1s" fill="freeze"/>
-    </rect>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer" />
 </p>
